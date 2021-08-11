@@ -25,21 +25,21 @@ else
     <section class="congratulations">
         <h1>Вітаю!</h1>
         <p>Це мій перший проект на <em>PHP</em> який я нагло скопіпастив з зразків AWS&nbsp;Cloud</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
-        <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
+        <p>Я використовую PHP версії <?= phpversion() ?></p>
+        <p>Це середовище запускається з Elastic Beanstalk PHP Platform</p>
     </section>
 
     <section class="instructions">
-        <h2>What's Next?</h2>
+        <h2>Що далі?</h2>
         <ul>
-            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
+            <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk огляд</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html">Using Amazon RDS with PHP</a>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html">Customizing the Software on EC2 Instances</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
         </ul>
 
-        <h2>AWS SDK for PHP</h2>
+        <h2>AWS SDK для PHP</h2>
         <ul>
             <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
