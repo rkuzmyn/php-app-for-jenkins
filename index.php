@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Вітаю!</h1>
-        <p>лпкшруешірщшгргшуікрау <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p>Це мій перший проект на <em>PHP</em> який я нагло скопіпастив з зразків AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
