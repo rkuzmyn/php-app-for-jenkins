@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Вітаю <br> Юний DevOps!</h1>
+        <h1>Вітаю DevOps!</h1>
         <p>Це мій перший проект на <em>PHP</em> який я нагло скопіпастив з зразків AWS&nbsp;Cloud</p>
         <p>Я використовую PHP версії <?= phpversion() ?></p>
         <p>Це середовище запускається з Elastic Beanstalk PHP Platform</p>
