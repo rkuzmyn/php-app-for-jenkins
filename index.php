@@ -13,7 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>PHP Application - Якась фігня</title>
+    <title>Моя PHP Application</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two" type="text/css">
     <link rel="icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Вітаю!</h1>
+        <h1>Вітаю Юний DevOps!</h1>
         <p>Це мій перший проект на <em>PHP</em> який я нагло скопіпастив з зразків AWS&nbsp;Cloud</p>
         <p>Я використовую PHP версії <?= phpversion() ?></p>
         <p>Це середовище запускається з Elastic Beanstalk PHP Platform</p>
