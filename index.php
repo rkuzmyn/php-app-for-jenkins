@@ -30,7 +30,7 @@ else
     </section>
 
     <section class="instructions">
-        <h2>Що далі?</h2>
+        <h2>Всякі посилання :)?</h2>
         <ul>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk огляд</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
